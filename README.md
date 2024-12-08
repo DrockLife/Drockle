@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hw9999
-- 👀 I’m interested in ... conceptual designs of nee software solutions. 
-- 🌱 I’m currently learning ... to migrate data to snowflake on azure. 
-- 💞️ I’m looking to collaborate on ... backend development of various solutions implemented as api's
+- 👀 I’m interested in ... prototypes of new applications.  especially applications generated with AI. 
+- 🌱 I’m currently learning ... to generate code with various AI IDE's.  I want to study several and get a methodology to the system. 
+- 💞️ I’m looking to collaborate on ... backend development of various solutions implemented as api's as well as documentation of systems.
 - 📫 How to reach me ... Hayward.wilson@gmail.com
 
 <!---
